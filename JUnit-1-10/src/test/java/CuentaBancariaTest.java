@@ -1,4 +1,3 @@
-package EntidadesTest;
 import org.junit.jupiter.api.Test;
 import Entidades.CuentaBancaria;
 import static org.junit.jupiter.api.Assertions.*;
